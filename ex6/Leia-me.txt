@@ -1,0 +1,17 @@
+Aluno: Murillo André Maleski
+Trabalho MEANSHIFT TRACKING
+
+Pré-requisitos:
+pip install opencv-contrib-python
+pip install numpy
+
+
+Para executar:
+python ex6.py
+
+
+O nome do arquivo de video deve ser "pessoa.mp4"
+Ou alterar linha 18 do código para o nome que desejar.
+
+Na janela "Frame" pode ser clicado com o mouse para selecionar a região de Tracking
+

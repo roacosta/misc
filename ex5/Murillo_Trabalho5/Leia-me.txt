@@ -1,0 +1,14 @@
+Aluno: Murillo André Maleski
+Trabalho OPTICAL FLOW KLT
+
+Pré-requisitos:
+pip install opencv-contrib-python
+pip install numpy
+pip install matplotlib
+
+Para executar:
+python ex5.py
+
+
+Será rodado 10x com valores aleatórios nas variáveis e impresso na tela.
+
